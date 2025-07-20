@@ -46,4 +46,4 @@ jobs:
           git config --global user.name "sandilyakoppolu"
           git config --global user.email "sandilyakoppolu007@gmail.com"
           npm install -g gh-pages
-          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/sandilyakoppolu/CICD.git
+          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/sandilyakoppolu/s109.git

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sandilyakoppolu.github.io/CICD",
+  "homepage": "https://sandilyakoppolu.github.io/s109",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
